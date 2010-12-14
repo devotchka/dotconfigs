@@ -1,0 +1,13 @@
+aterm.loginShell:true
+aterm.transparent:true
+aterm.shading:40
+aterm.background:black
+aterm.foreground:white
+aterm.scrollbar:false
+aterm.scrollbar_right:true
+aterm.transparentscrollbar:true
+aterm.font:fixed
+aterm.boldfont:fixed
+aterm.cursorcolor:red
+aterm.pointercolor:red
+aterm.borderless:true
